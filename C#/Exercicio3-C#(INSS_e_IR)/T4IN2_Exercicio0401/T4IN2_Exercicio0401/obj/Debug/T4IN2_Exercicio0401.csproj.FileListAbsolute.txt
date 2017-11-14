@@ -1,0 +1,5 @@
+C:\Users\Curso\Desktop\Lógica de Programação 2\T4IN2_Exercicio0401\T4IN2_Exercicio0401\bin\Debug\T4IN2_Exercicio0401.exe
+C:\Users\Curso\Desktop\Lógica de Programação 2\T4IN2_Exercicio0401\T4IN2_Exercicio0401\bin\Debug\T4IN2_Exercicio0401.pdb
+C:\Users\Curso\Desktop\Lógica de Programação 2\T4IN2_Exercicio0401\T4IN2_Exercicio0401\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Curso\Desktop\Lógica de Programação 2\T4IN2_Exercicio0401\T4IN2_Exercicio0401\obj\Debug\T4IN2_Exercicio0401.exe
+C:\Users\Curso\Desktop\Lógica de Programação 2\T4IN2_Exercicio0401\T4IN2_Exercicio0401\obj\Debug\T4IN2_Exercicio0401.pdb

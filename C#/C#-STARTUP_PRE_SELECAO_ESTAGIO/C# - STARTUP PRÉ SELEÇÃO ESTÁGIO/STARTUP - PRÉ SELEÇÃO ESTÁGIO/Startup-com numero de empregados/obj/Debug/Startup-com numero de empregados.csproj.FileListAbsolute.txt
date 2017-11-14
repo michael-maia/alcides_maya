@@ -1,0 +1,5 @@
+C:\Users\MICHAEL\Documents\SharpDevelop Projects\Startup-com numero de empregados\Startup-com numero de empregados\obj\Debug\Startup-com numero de empregados.csprojResolveAssemblyReference.cache
+C:\Users\MICHAEL\Documents\SharpDevelop Projects\Startup-com numero de empregados\Startup-com numero de empregados\bin\Debug\Startup-com numero de empregados.exe
+C:\Users\MICHAEL\Documents\SharpDevelop Projects\Startup-com numero de empregados\Startup-com numero de empregados\bin\Debug\Startup-com numero de empregados.pdb
+C:\Users\MICHAEL\Documents\SharpDevelop Projects\Startup-com numero de empregados\Startup-com numero de empregados\obj\Debug\Startup-com numero de empregados.exe
+C:\Users\MICHAEL\Documents\SharpDevelop Projects\Startup-com numero de empregados\Startup-com numero de empregados\obj\Debug\Startup-com numero de empregados.pdb

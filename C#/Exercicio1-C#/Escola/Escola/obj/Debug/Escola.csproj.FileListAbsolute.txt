@@ -1,0 +1,5 @@
+C:\Users\Roselaine Maia\Documents\SharpDevelop Projects\Escola\Escola\obj\Debug\Escola.csprojResolveAssemblyReference.cache
+C:\Users\Roselaine Maia\Documents\SharpDevelop Projects\Escola\Escola\bin\Debug\Escola.exe
+C:\Users\Roselaine Maia\Documents\SharpDevelop Projects\Escola\Escola\bin\Debug\Escola.pdb
+C:\Users\Roselaine Maia\Documents\SharpDevelop Projects\Escola\Escola\obj\Debug\Escola.exe
+C:\Users\Roselaine Maia\Documents\SharpDevelop Projects\Escola\Escola\obj\Debug\Escola.pdb

@@ -1,0 +1,9 @@
+C:\Users\Roselaine Maia\Documents\SharpDevelop Projects\G2 Forms\G2 Forms\obj\Debug\G2 Forms.csprojResolveAssemblyReference.cache
+C:\Users\Roselaine Maia\Documents\SharpDevelop Projects\G2 Forms\G2 Forms\obj\Debug\G2_Forms.MainForm.resources
+C:\Users\Roselaine Maia\Documents\SharpDevelop Projects\G2 Forms\G2 Forms\obj\Debug\G2 Forms.csproj.GenerateResource.Cache
+C:\Users\Roselaine Maia\Documents\SharpDevelop Projects\G2 Forms\G2 Forms\bin\Debug\G2 Forms.exe
+C:\Users\Roselaine Maia\Documents\SharpDevelop Projects\G2 Forms\G2 Forms\bin\Debug\G2 Forms.pdb
+C:\Users\Roselaine Maia\Documents\SharpDevelop Projects\G2 Forms\G2 Forms\obj\Debug\G2 Forms.exe
+C:\Users\Roselaine Maia\Documents\SharpDevelop Projects\G2 Forms\G2 Forms\obj\Debug\G2 Forms.pdb
+C:\Users\Roselaine Maia\Documents\SharpDevelop Projects\G2 Forms\G2 Forms\obj\Debug\G2_Forms.Inicio.resources
+C:\Users\Roselaine Maia\Documents\SharpDevelop Projects\G2 Forms\G2 Forms\obj\Debug\G2_Forms.Consulta.resources
